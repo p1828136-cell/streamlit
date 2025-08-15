@@ -1,0 +1,16 @@
+{
+  "columns_sizes": [1.92, 1.92, 1.92, 1.92, 1.92, 9, 1],
+  "paper_size": "A4",
+  "report_inf": {
+    "address_FS": 20,
+    "page_inf_FS": 13,
+    "table_FS": 5,
+    "num_rows_page": 33,
+    "cell_height": 0.7
+  },
+  "indexes": {
+    "address_x": 10.5,
+    "address_y": -1.4,
+    "page_inf_x": 4
+  }
+}
